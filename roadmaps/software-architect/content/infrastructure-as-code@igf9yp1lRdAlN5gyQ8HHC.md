@@ -9,4 +9,3 @@ Visit the following resources to learn more:
 - [@video@What is Infrastructure as Code?](https://www.youtube.com/watch?v=zWw2wuiKd5o)
 - [@video@What is Infrastructure as Code? Difference of Infrastructure as Code Tools](https://www.youtube.com/watch?v=POPP2WTJ8es)
 - [@video@Introduction to Infrastructure as Code](https://www.youtube.com/watch?v=zWw2wuiKd5o)
-- [@feed@Explore top posts about Infrastructure](https://app.daily.dev/tags/infrastructure?ref=roadmapsh)
