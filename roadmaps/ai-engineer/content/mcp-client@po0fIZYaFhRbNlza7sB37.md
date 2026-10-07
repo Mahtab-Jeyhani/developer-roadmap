@@ -7,3 +7,4 @@ Visit the following resources to learn more:
 - [@course@Model Context Protocol (MCP) Course](https://huggingface.co/learn/mcp-course/en/unit0/introduction)
 - [@official@Understanding MCP clients](https://modelcontextprotocol.io/docs/learn/client-concepts#understanding-mcp-clients)
 - [@video@The Complete Guide to Building AI Agents for Beginners](https://youtu.be/MOyl58VF2ak?si=-QjRD_5y3iViprJX)
+- [@article@Agents, APIs, and the Next Layer of the Internet](https://towardsdatascience.com/agents-apis-and-the-next-layer-of-the-internet/)

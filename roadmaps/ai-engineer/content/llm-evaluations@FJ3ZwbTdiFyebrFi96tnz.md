@@ -6,3 +6,4 @@ Visit the following resources to learn more:
 
 - [@article@LLM evaluation: a beginner's guide](https://www.evidentlyai.com/llm-guide/llm-evaluation)
 - [@video@Welcome to the LLM evaluation course](https://www.youtube.com/watch?v=rHs0sP7b5fM&list=PL9omX6impEuMgDFCK_NleIB0sMzKs2boI)
+- [@article@LLM-as-a-Judge: A Practical Guide](https://towardsdatascience.com/llm-as-a-judge-a-practical-guide/)

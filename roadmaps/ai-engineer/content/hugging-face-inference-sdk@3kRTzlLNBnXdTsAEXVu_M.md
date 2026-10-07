@@ -6,3 +6,4 @@ Visit the following resources to learn more:
 
 - [@official@Inference](https://huggingface.co/docs/huggingface_hub/en/package_reference/inference_client)
 - [@article@Endpoint Setup](https://www.npmjs.com/package/@huggingface/inference)
+- [@article@Evaluating LLMs for Inference, or Lessons from Teaching for Machine Learning](https://towardsdatascience.com/evaluating-llms-for-inference-or-lessons-from-teaching-for-machine-learning/)

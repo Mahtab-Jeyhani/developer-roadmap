@@ -7,3 +7,6 @@ Visit the following resources to learn more:
 - [@article@4 context engineering strategies every AI engineer needs to know](https://newsletter.owainlewis.com/p/4-context-engineering-strategies)
 - [@article@Context Engineering](https://blog.langchain.com/context-engineering-for-agents/)
 - [@article@Is RAG Dead? The Rise of Context Engineering and Semantic Layers for Agentic AI](https://towardsdatascience.com/beyond-rag/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration)
+- [@article@New to LLMs? Start Here](https://towardsdatascience.com/new-to-llms-start-here/)
+- [@article@How to Build an MCQ App](https://towardsdatascience.com/how-to-build-an-mcq-app/)
+- [@article@Agentic RAG Applications: Company Knowledge Slack Agents](https://towardsdatascience.com/agentic-rag-applications-company-knowledge-slack-agents/)
